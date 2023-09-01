@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/bin/Debug/net7.0/StringInterpolation
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/bin/Debug/net7.0/StringInterpolation.deps.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/bin/Debug/net7.0/StringInterpolation.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/bin/Debug/net7.0/StringInterpolation.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/bin/Debug/net7.0/StringInterpolation.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/obj/Debug/net7.0/StringInterpolation.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/obj/Debug/net7.0/StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/obj/Debug/net7.0/StringInterpolation.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/obj/Debug/net7.0/StringInterpolation.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/obj/Debug/net7.0/StringInterpolation.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/obj/Debug/net7.0/StringInterpolation.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/obj/Debug/net7.0/refint/StringInterpolation.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/obj/Debug/net7.0/StringInterpolation.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/obj/Debug/net7.0/StringInterpolation.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringInterpolation/obj/Debug/net7.0/ref/StringInterpolation.dll

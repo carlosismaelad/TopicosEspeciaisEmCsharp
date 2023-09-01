@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/bin/Debug/net7.0/Guids
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/bin/Debug/net7.0/Guids.deps.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/bin/Debug/net7.0/Guids.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/bin/Debug/net7.0/Guids.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/bin/Debug/net7.0/Guids.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/obj/Debug/net7.0/Guids.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/obj/Debug/net7.0/Guids.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/obj/Debug/net7.0/Guids.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/obj/Debug/net7.0/Guids.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/obj/Debug/net7.0/Guids.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/obj/Debug/net7.0/Guids.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/obj/Debug/net7.0/refint/Guids.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/obj/Debug/net7.0/Guids.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/obj/Debug/net7.0/Guids.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/Guids/obj/Debug/net7.0/ref/Guids.dll

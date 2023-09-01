@@ -29,7 +29,7 @@ namespace StringInterpolation
             // Também usamos o @ quando iremos usar caracteres especiais como \n para que o compilador possa ignorar e ler como string.
             var announcement = @"
             Comunicado:
-            No dia 07/09/2023 não haverá aula.
+            No dia 01/01/2023 não haverá aula.
             Motivo: feriado do dia da independência.";
 
             Console.WriteLine(text);

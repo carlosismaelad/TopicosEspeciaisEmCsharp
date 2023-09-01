@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/bin/Debug/net7.0/StringsCompare
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/bin/Debug/net7.0/StringsCompare.deps.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/bin/Debug/net7.0/StringsCompare.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/bin/Debug/net7.0/StringsCompare.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/bin/Debug/net7.0/StringsCompare.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/obj/Debug/net7.0/StringsCompare.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/obj/Debug/net7.0/StringsCompare.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/obj/Debug/net7.0/StringsCompare.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/obj/Debug/net7.0/StringsCompare.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/obj/Debug/net7.0/StringsCompare.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/obj/Debug/net7.0/StringsCompare.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/obj/Debug/net7.0/refint/StringsCompare.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/obj/Debug/net7.0/StringsCompare.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/obj/Debug/net7.0/StringsCompare.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsCompare/obj/Debug/net7.0/ref/StringsCompare.dll

@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/bin/Debug/net7.0/StringsMethods
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/bin/Debug/net7.0/StringsMethods.deps.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/bin/Debug/net7.0/StringsMethods.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/bin/Debug/net7.0/StringsMethods.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/bin/Debug/net7.0/StringsMethods.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/obj/Debug/net7.0/StringsMethods.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/obj/Debug/net7.0/StringsMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/obj/Debug/net7.0/StringsMethods.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/obj/Debug/net7.0/StringsMethods.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/obj/Debug/net7.0/StringsMethods.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/obj/Debug/net7.0/StringsMethods.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/obj/Debug/net7.0/refint/StringsMethods.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/obj/Debug/net7.0/StringsMethods.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/obj/Debug/net7.0/StringsMethods.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/StringsMethods/obj/Debug/net7.0/ref/StringsMethods.dll

@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/bin/Debug/net7.0/DateCompare
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/bin/Debug/net7.0/DateCompare.deps.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/bin/Debug/net7.0/DateCompare.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/bin/Debug/net7.0/DateCompare.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/bin/Debug/net7.0/DateCompare.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/obj/Debug/net7.0/DateCompare.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/obj/Debug/net7.0/DateCompare.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/obj/Debug/net7.0/DateCompare.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/obj/Debug/net7.0/DateCompare.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/obj/Debug/net7.0/DateCompare.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/obj/Debug/net7.0/DateCompare.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/obj/Debug/net7.0/refint/DateCompare.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/obj/Debug/net7.0/DateCompare.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/obj/Debug/net7.0/DateCompare.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCompare/obj/Debug/net7.0/ref/DateCompare.dll

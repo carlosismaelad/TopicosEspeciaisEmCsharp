@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/bin/Debug/net7.0/IntroDatetime
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/bin/Debug/net7.0/IntroDatetime.deps.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/bin/Debug/net7.0/IntroDatetime.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/bin/Debug/net7.0/IntroDatetime.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/bin/Debug/net7.0/IntroDatetime.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/obj/Debug/net7.0/IntroDatetime.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/obj/Debug/net7.0/IntroDatetime.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/obj/Debug/net7.0/IntroDatetime.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/obj/Debug/net7.0/IntroDatetime.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/obj/Debug/net7.0/IntroDatetime.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/obj/Debug/net7.0/IntroDatetime.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/obj/Debug/net7.0/refint/IntroDatetime.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/obj/Debug/net7.0/IntroDatetime.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/obj/Debug/net7.0/IntroDatetime.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/IntroDatetime/obj/Debug/net7.0/ref/IntroDatetime.dll

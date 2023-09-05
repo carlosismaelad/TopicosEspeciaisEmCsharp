@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/bin/Debug/net7.0/DateCultureInfo
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/bin/Debug/net7.0/DateCultureInfo.deps.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/bin/Debug/net7.0/DateCultureInfo.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/bin/Debug/net7.0/DateCultureInfo.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/bin/Debug/net7.0/DateCultureInfo.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/obj/Debug/net7.0/DateCultureInfo.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/obj/Debug/net7.0/DateCultureInfo.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/obj/Debug/net7.0/DateCultureInfo.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/obj/Debug/net7.0/DateCultureInfo.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/obj/Debug/net7.0/DateCultureInfo.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/obj/Debug/net7.0/DateCultureInfo.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/obj/Debug/net7.0/refint/DateCultureInfo.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/obj/Debug/net7.0/DateCultureInfo.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/obj/Debug/net7.0/DateCultureInfo.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateCultureInfo/obj/Debug/net7.0/ref/DateCultureInfo.dll

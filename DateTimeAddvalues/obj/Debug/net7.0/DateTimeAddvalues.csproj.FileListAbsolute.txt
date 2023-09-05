@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/bin/Debug/net7.0/DateTimeAddvalues
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/bin/Debug/net7.0/DateTimeAddvalues.deps.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/bin/Debug/net7.0/DateTimeAddvalues.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/bin/Debug/net7.0/DateTimeAddvalues.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/bin/Debug/net7.0/DateTimeAddvalues.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/obj/Debug/net7.0/DateTimeAddvalues.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/obj/Debug/net7.0/DateTimeAddvalues.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/obj/Debug/net7.0/DateTimeAddvalues.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/obj/Debug/net7.0/DateTimeAddvalues.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/obj/Debug/net7.0/DateTimeAddvalues.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/obj/Debug/net7.0/DateTimeAddvalues.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/obj/Debug/net7.0/refint/DateTimeAddvalues.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/obj/Debug/net7.0/DateTimeAddvalues.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/obj/Debug/net7.0/DateTimeAddvalues.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/DateTimeAddvalues/obj/Debug/net7.0/ref/DateTimeAddvalues.dll

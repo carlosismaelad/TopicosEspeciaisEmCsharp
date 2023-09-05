@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/bin/Debug/net7.0/FormattingPatternsDateTime
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/bin/Debug/net7.0/FormattingPatternsDateTime.deps.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/bin/Debug/net7.0/FormattingPatternsDateTime.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/bin/Debug/net7.0/FormattingPatternsDateTime.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/bin/Debug/net7.0/FormattingPatternsDateTime.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/obj/Debug/net7.0/FormattingPatternsDateTime.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/obj/Debug/net7.0/FormattingPatternsDateTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/obj/Debug/net7.0/FormattingPatternsDateTime.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/obj/Debug/net7.0/FormattingPatternsDateTime.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/obj/Debug/net7.0/FormattingPatternsDateTime.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/obj/Debug/net7.0/FormattingPatternsDateTime.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/obj/Debug/net7.0/refint/FormattingPatternsDateTime.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/obj/Debug/net7.0/FormattingPatternsDateTime.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/obj/Debug/net7.0/FormattingPatternsDateTime.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingPatternsDateTime/obj/Debug/net7.0/ref/FormattingPatternsDateTime.dll

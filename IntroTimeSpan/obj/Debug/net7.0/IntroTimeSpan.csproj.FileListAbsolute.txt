@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/bin/Debug/net7.0/IntroTimeSpan
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/bin/Debug/net7.0/IntroTimeSpan.deps.json
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/bin/Debug/net7.0/IntroTimeSpan.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/bin/Debug/net7.0/IntroTimeSpan.dll
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/bin/Debug/net7.0/IntroTimeSpan.pdb
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/obj/Debug/net7.0/IntroTimeSpan.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/obj/Debug/net7.0/IntroTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/obj/Debug/net7.0/IntroTimeSpan.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/obj/Debug/net7.0/IntroTimeSpan.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/obj/Debug/net7.0/IntroTimeSpan.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/obj/Debug/net7.0/IntroTimeSpan.dll
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/obj/Debug/net7.0/refint/IntroTimeSpan.dll
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/obj/Debug/net7.0/IntroTimeSpan.pdb
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/obj/Debug/net7.0/IntroTimeSpan.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/IntroTimeSpan/obj/Debug/net7.0/ref/IntroTimeSpan.dll

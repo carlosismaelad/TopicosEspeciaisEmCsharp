@@ -3,7 +3,7 @@ using System.Reflection.Metadata;
 
 namespace MoreAboutDateTime
 {
-    class program
+    class Program
     {
         public static void Main(string[] args)
         {

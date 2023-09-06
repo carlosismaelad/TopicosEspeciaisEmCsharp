@@ -21,6 +21,13 @@ namespace DateTimeAddValues
             através de atribuição.
              */
 
+            // Verificando a diferença entre datas
+            DateTime d1 = new DateTime(1998, 12, 29);
+
+            TimeSpan difer = date.Subtract(d1); // TimeSpan porque o resultado será uma duração.
+
+            Console.WriteLine(difer.ToString());
+
 
         }
     }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace DateTimeAddValues
 {
@@ -21,12 +22,21 @@ namespace DateTimeAddValues
             através de atribuição.
              */
 
-            // Verificando a diferença entre datas
+
+
+            // Verificando a diferença entre datasTimeSpan t = new TimeSpan(2, 3, 5, 7, 11);
             DateTime d1 = new DateTime(1998, 12, 29);
 
             TimeSpan difer = date.Subtract(d1); // TimeSpan porque o resultado será uma duração.
 
-            Console.WriteLine(difer.ToString());
+            double yearsDouble = difer.Days / 365.25; // calcula os anos com casa decimais
+            int years = (int)Math.Floor(yearsDouble); // arredonda o valor obtido para baixo
+
+            int months = (difer.Days % 365) / 30; // aproximação de meses
+            int days = (difer.Days % 365) % 30; // Dias restantes
+
+
+            Console.WriteLine($"Você tem {years} anos, {months} mêses e {days} dias");
 
 
         }

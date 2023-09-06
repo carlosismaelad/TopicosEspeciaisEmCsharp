@@ -1,0 +1,15 @@
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/bin/Debug/net7.0/FormattingDateTimeToString
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/bin/Debug/net7.0/FormattingDateTimeToString.deps.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/bin/Debug/net7.0/FormattingDateTimeToString.runtimeconfig.json
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/bin/Debug/net7.0/FormattingDateTimeToString.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/bin/Debug/net7.0/FormattingDateTimeToString.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/obj/Debug/net7.0/FormattingDateTimeToString.csproj.AssemblyReference.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/obj/Debug/net7.0/FormattingDateTimeToString.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/obj/Debug/net7.0/FormattingDateTimeToString.AssemblyInfoInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/obj/Debug/net7.0/FormattingDateTimeToString.AssemblyInfo.cs
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/obj/Debug/net7.0/FormattingDateTimeToString.csproj.CoreCompileInputs.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/obj/Debug/net7.0/FormattingDateTimeToString.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/obj/Debug/net7.0/refint/FormattingDateTimeToString.dll
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/obj/Debug/net7.0/FormattingDateTimeToString.pdb
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/obj/Debug/net7.0/FormattingDateTimeToString.genruntimeconfig.cache
+/home/carlosismaelad/dev/estudos/csharp/TopicosEspeciaisEmCsharp/FormattingDateTimeToString/obj/Debug/net7.0/ref/FormattingDateTimeToString.dll

@@ -45,7 +45,6 @@ namespace Bubblesort
             int aux = seq[i];
             seq[i] = seq[i + 1];
             seq[i + 1] = aux;
-
         }
     }
 }
